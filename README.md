@@ -95,14 +95,6 @@ Each `.txt` includes a paragraph describing emotional expression, posture, cloth
 
 ---
 
-## ⚙️ Advanced / Future Features
-
-- **JSON output**: Export descriptions in structured JSON for further processing.
-- **Aggregate mode**: Process all images and output a combined JSON summary.
-- **Web GUI**: Add a basic Flask or Gradio interface for interactive prompting.
-
----
-
 ## 📄 License
 
 [MIT License](https://github.com/anto18671/image-to-dense-caption/blob/main/LICENSE) — this script
