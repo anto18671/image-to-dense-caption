@@ -30,8 +30,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 ### 3. Install dependencies
 
 ```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install transformers accelerate tqdm
+pip install -r requirements.txt
 ```
 
 ### 4. Download the model
