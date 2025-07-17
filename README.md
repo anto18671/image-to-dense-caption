@@ -107,4 +107,5 @@ Each `.txt` includes a paragraph describing emotional expression, posture, cloth
 ## 📄 License
 
 MIT License — this script
+
 Model usage under Hugging Face terms (refer to `huihui‑ai/Qwen2.5‑VL‑7B‑Instruct‑abliterated` for details)
