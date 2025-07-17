@@ -106,6 +106,6 @@ Each `.txt` includes a paragraph describing emotional expression, posture, cloth
 
 ## 📄 License
 
-MIT License — this script
+[MIT License](https://github.com/anto18671/image-to-dense-caption/blob/main/LICENSE) — this script
 
-Model usage under Hugging Face terms (refer to `huihui‑ai/Qwen2.5‑VL‑7B‑Instruct‑abliterated` for details)
+Model usage under Hugging Face terms (see [huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated](https://huggingface.co/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) for details)
