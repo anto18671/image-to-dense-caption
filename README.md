@@ -20,8 +20,6 @@ git clone https://github.com/anto18671/image-to-dense-caption.git
 cd image-to-dense-caption
 ```
 
-````
-
 ### 2. Set up your Python environment
 
 ```bash
@@ -110,4 +108,3 @@ Each `.txt` includes a paragraph describing emotional expression, posture, cloth
 
 MIT License — this script
 Model usage under Hugging Face terms (refer to `huihui‑ai/Qwen2.5‑VL‑7B‑Instruct‑abliterated` for details)
-````
