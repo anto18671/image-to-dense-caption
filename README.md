@@ -47,7 +47,7 @@ Ensure the folder `Qwen2.5-VL-7B-Instruct-abliterated` sits in the same director
 
 ## 🔧 Usage
 
-1. Place your images in a subfolder (default: `emi/uncap/`)
+1. Place your images in a subfolder (default: `images/`)
 2. Run the script:
 
 ```bash
@@ -64,8 +64,8 @@ This will:
 ## 📁 Output Example
 
 ```
-emi/uncap/photo1.jpg      → emi/uncap/photo1.txt
-emi/uncap/portrait.webp   → emi/uncap/portrait.txt
+images/photo1.jpg      → images/photo1.txt
+images/portrait.webp   → images/portrait.txt
 ```
 
 Each `.txt` includes a paragraph describing emotional expression, posture, clothing/nudity status, body type, hair, and environment.
